@@ -22,4 +22,8 @@ public class BookTest {
     @Test public void getBookAuthorNameShouldReturnBooksAuthorNames() {
         assertEquals("Robert C. Martin", testBook.getBookAuthorNames());
     }
+
+    @Test public void getBookPublishedYearShouldReturnBookPublishedYear() {
+        assertEquals(2008, testBook.getBookPublishedYear());
+    }
 }
