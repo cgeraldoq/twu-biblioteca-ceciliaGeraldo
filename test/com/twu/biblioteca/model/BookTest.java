@@ -12,7 +12,7 @@ public class BookTest {
     @Before
     public void mockSetUp() {
 
-        testBook = new Book("Clean Code");
+        testBook = new Book("Clean Code", "Robert C. Martin");
     }
 
     @Test public void getBookTitleShouldReturnBooksTitle() {
@@ -20,6 +20,6 @@ public class BookTest {
     }
 
     @Test public void getBookAuthorNameShouldReturnBooksAuthorNames() {
-        assertEquals(" Robert C. Martin", testBook.getBookAuthorName());
+        assertEquals("Robert C. Martin", testBook.getBookAuthorNames());
     }
 }
