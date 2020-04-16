@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 public class MenuTest {
 
     @Test
-    public void shouldSeeListBookOptionsAtMenu() {
+    public void shouldSeeListBookOptionAtMenu() {
         assertEquals("1. List Of Books", Menu.menuOptions());
     }
 }
