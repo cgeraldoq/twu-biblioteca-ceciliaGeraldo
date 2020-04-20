@@ -24,4 +24,9 @@ public class Book {
         return publishedYear;
     }
 
+
+    @Override
+    public String toString() {
+        return "Title: " + title + " | Author: " + authorNames + " | Released Year: " + publishedYear;
+    }
 }
