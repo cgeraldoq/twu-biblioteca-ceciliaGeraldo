@@ -17,14 +17,14 @@ public class BibliotecaApp {
 
         Menu menu = new Menu();
         String menuOptions = menu.menuOptions();
-        System.out.println(menuOptions);
 
         int inputNumber;
         do {
-            menu.menuOptions();
+            System.out.println(menuOptions);
             Scanner scanner = new Scanner(System.in);
             inputNumber = scanner.nextInt();
             menu.catchUserMenuOptionInput(inputNumber);
+
         }
         while (inputNumber != 9);
     }

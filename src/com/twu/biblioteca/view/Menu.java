@@ -11,13 +11,19 @@ public class Menu {
     }
 
     public void catchUserMenuOptionInput(int option) {
-
-        if (option == 1) {
-            System.out.println("Loading Books...");
-            System.out.println(new BookList().getAllBooks());
-        }else {
-            System.out.println("Please enter a valid menu option");
+        switch (option) {
+            case 1:
+                System.out.println("Loading Books...");
+                System.out.println(new BookList().getAllBooks());
+                break;
+            case 9:
+                System.out.println("...BibliotecaApp is closing...");
+                System.exit(0);
+            default:
+                System.out.println("Please enter a valid menu option");
+                menuOptions();
         }
+
 
     }
 }
