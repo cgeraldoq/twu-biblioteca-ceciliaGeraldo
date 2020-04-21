@@ -1,5 +1,6 @@
 package com.twu.biblioteca;
 
+import com.twu.biblioteca.model.BookList;
 import com.twu.biblioteca.view.Menu;
 
 import java.util.Scanner;
