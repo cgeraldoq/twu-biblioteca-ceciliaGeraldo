@@ -1,20 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29ca69f9-5e96-402c-b739-f6e3267d662a" name="Default Changelist" comment="" />
+    <list default="true" id="29ca69f9-5e96-402c-b739-f6e3267d662a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/twu/biblioteca/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twu/biblioteca/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/twu/biblioteca/ExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/twu/biblioteca/ExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/twu/biblioteca/model/BookListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/twu/biblioteca/model/BookListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/twu/biblioteca/model/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/twu/biblioteca/model/BookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/twu/biblioteca/view/MenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/twu/biblioteca/view/MenuTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="237" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aAmLR9vKCpBOMSzOza1dcoIR11" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.BookListTest">
+    <configuration name="BibliotecaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.twu.biblioteca.BibliotecaApp" />
+      <module name="biblioteca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twu.biblioteca.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.twu.biblioteca.BibliotecaApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in biblioteca" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="biblioteca" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="biblioteca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twu.biblioteca.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.twu.biblioteca.model" />
+      <option name="MAIN_CLASS_NAME" value="com.twu.biblioteca.model.BookListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="biblioteca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twu.biblioteca.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.twu.biblioteca.view" />
+      <option name="MAIN_CLASS_NAME" value="com.twu.biblioteca.view.MenuTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuTest.shouldSeeListBookOptionAtMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="biblioteca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twu.biblioteca.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.twu.biblioteca.view" />
+      <option name="MAIN_CLASS_NAME" value="com.twu.biblioteca.view.MenuTest" />
+      <option name="METHOD_NAME" value="shouldSeeListBookOptionAtMenu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookListTest" />
+        <item itemvalue="JUnit.All in biblioteca" />
+        <item itemvalue="JUnit.MenuTest" />
+        <item itemvalue="Application.BibliotecaApp" />
+        <item itemvalue="JUnit.MenuTest.shouldSeeListBookOptionAtMenu" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -26,7 +144,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586186716277</updated>
-      <workItem from="1586186719273" duration="8000" />
+      <workItem from="1586186719273" duration="204000" />
+      <workItem from="1586187095103" duration="979000" />
+      <workItem from="1586195635393" duration="1619000" />
+      <workItem from="1586788581084" duration="46000" />
+      <workItem from="1586891765177" duration="25797000" />
     </task>
     <servers />
   </component>
@@ -34,9 +156,72 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="182" key="#Project_Structure" timestamp="1586290922690">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="413" y="182" key="#Project_Structure/0.23.1680.947@0.23.1680.947" timestamp="1586290922690" />
+    <state x="601" y="269" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587571105224">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="601" y="269" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.947@0.23.1680.947" timestamp="1587571105224" />
+    <state x="568" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586290892256">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="568" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.947@0.23.1680.947" timestamp="1586290892256" />
+    <state x="494" y="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586195069795">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="494" y="423" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.947@0.23.1680.947" timestamp="1586195069795" />
+    <state x="736" y="207" key="#xdebugger.evaluate" timestamp="1587418978682">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="736" y="207" key="#xdebugger.evaluate/0.23.1680.947@0.23.1680.947" timestamp="1587418978682" />
+    <state x="396" y="119" key="CommitChangelistDialog2" timestamp="1586290870232">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="396" y="119" key="CommitChangelistDialog2/0.23.1680.947@0.23.1680.947" timestamp="1586290870232" />
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom" timestamp="1587656849277">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="788" height="253" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587415955491" />
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1587656849277" />
+    <state width="1638" height="253" key="GridCell.Tab.0.center" timestamp="1587656849276">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="788" height="253" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587415955490" />
+    <state width="1638" height="253" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1587656849276" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left" timestamp="1587656849275">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="788" height="253" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587415955490" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1587656849275" />
+    <state width="1638" height="253" key="GridCell.Tab.0.right" timestamp="1587656849276">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="788" height="253" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587415955491" />
+    <state width="1638" height="253" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1587656849276" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom" timestamp="1587419246855">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.947@0.23.1680.947" timestamp="1587419246855" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center" timestamp="1587419246855">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.947@0.23.1680.947" timestamp="1587419246855" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left" timestamp="1587419246854">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.947@0.23.1680.947" timestamp="1587419246854" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right" timestamp="1587419246855">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.947@0.23.1680.947" timestamp="1587419246855" />
     <state x="341" y="135" key="SettingsEditor" timestamp="1586186727249">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="341" y="135" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1586186727249" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/biblioteca$All_in_biblioteca.ic" NAME="All in biblioteca Coverage Results" MODIFIED="1587571439274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

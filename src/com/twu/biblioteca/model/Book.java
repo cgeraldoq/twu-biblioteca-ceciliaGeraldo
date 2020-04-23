@@ -34,14 +34,6 @@ public class Book {
         this.availableStatus = !availableStatus;
     }
 
-    public void checkoutABook() {
-        this.availableStatus = false;
-    }
-
-    public void returnABook() {
-        this.availableStatus = true;
-    }
-
     @Override
     public String toString() {
         return "Title: " + title + " | Author: " + authorNames + " | Released Year: " + publishedYear + " | Status: " + availableStatus;

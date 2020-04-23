@@ -12,7 +12,7 @@ public class BookTest {
     @Before
     public void mockSetUp() {
 
-        testBook = new Book("Clean Code", "Robert C. Martin");
+        testBook = new Book("Clean Code", "Robert C. Martin", 2008, true);
     }
 
     @Test public void getBookTitleShouldReturnBooksTitle() {
