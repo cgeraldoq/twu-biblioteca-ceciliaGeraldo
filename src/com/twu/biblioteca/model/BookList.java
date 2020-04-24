@@ -1,13 +1,7 @@
 package com.twu.biblioteca.model;
 
-import com.sun.scenario.effect.impl.sw.java.JSWBlend_SRC_OUTPeer;
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-import org.w3c.dom.ls.LSOutput;
-
 import java.lang.StringBuilder;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 public class BookList {
 
